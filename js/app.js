@@ -1,3 +1,5 @@
+
+// 정렬기능 추가
 function generate() {
 var numbers = [];
 for(var i=0; i<6; i++) {
